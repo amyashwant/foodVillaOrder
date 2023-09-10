@@ -83,7 +83,7 @@ const AppLayout = () => {
   }
 
   function showPosition(position) {
-    console.log("latitude", position.coords.latitude);
+    console.log("latitudess", position.coords.latitude);
     console.log("longitude", position.coords.longitude);
     setLocationGlobal({
       loaded: true,

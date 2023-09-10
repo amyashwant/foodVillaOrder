@@ -1,5 +1,5 @@
 {
-  "name": "namaste-react",
+  "name": "react-app",
   "version": "1.0.0",
   "description": "FoodVilla app",
   "scripts": {
@@ -10,14 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chinmay021/Namaste-React.git"
+    "url": "https://github.com/amyashwant/foodVillaOrder"
   },
-  "author": "Chinmay Kumar",
+  "author": "Yashwant singh",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chinmay021/Namaste-React/issues"
-  },
-  "homepage": "https://github.com/chinmay021/Namaste-React#readme",
+  "homepage": "https://github.com/amyashwant/",
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
