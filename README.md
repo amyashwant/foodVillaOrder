@@ -1,7 +1,7 @@
-# Namaste-React
+# React-app
 
-Namaste React by Akshay Saini
+React App by Yashwant singh
 
 # Demo
 
-https://fooodvilla.netlify.app/
+https://food-villa-order.vercel.app/
